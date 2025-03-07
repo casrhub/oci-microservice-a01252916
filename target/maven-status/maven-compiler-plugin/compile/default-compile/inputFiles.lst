@@ -1,0 +1,9 @@
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/OciMicroserviceApplication.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/controller/OrderController.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/controller/UserController.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/model/Order.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/model/User.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/repository/OrderRepository.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/repository/UserRepository.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/service/OrderService.java
+/Users/casr/casrprojects/javadev101/oci-microservice/src/main/java/com/example/oci_microservice/service/UserService.java
